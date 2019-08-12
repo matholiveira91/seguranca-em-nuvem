@@ -3,7 +3,7 @@
 [cloud-security-alliance](cloudsecurityalliance.org)
 [OWASP CLOUD SECURITY](https://www.owasp.org/index.php/OWASP_Cloud_Security_Project)
 ----
-#Lista de Canais e Grupos sobre SEGINFO:
+# Lista de Canais e Grupos sobre SEGINFO:
 
 1. https://t.me/shellterlabs 📕
 2. https://t.me/SecCastOficial 🎧
